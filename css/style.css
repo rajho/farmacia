@@ -1,0 +1,45 @@
+/* Default styles */
+
+ul li {
+	list-style: none;
+}
+
+/* Page colors */
+
+body{ color: #fff;}
+.main-header { background-color: #3D6B36;}
+.main-nav li { background-color: #F55944;}
+
+/* Page styles */
+
+.main-wrapper {
+	width: 90%;
+	margin: auto;
+}
+
+.main-header {
+	padding-top: 5px;
+}
+
+.main-logo {
+	background-color: #8F5F3E;
+	border-radius: 5px;
+	margin-left: 10px;	
+}
+
+.main-nav li {
+	border-radius: 5px;	
+}
+
+.main-logo, .main-nav, .main-nav li{
+	display: inline-block;
+}
+
+.main-logo a, 
+.main-nav a {
+	color: #fff;
+	text-decoration: none;
+	text-align: center;
+	display: block;
+	padding: 10px 15px;
+}

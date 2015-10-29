@@ -1,0 +1,35 @@
+.main-wrapper {
+	background: yellow;	
+	max-width: 450px;
+	margin: auto;	
+	padding-top: 5px;	
+	position: relative;
+  	top: 50%; 
+  	transform: translateY(-50%);
+}
+
+h1, h3 {
+	text-align: center;
+}
+
+.logo {
+	width: 150px;
+	height: 150px;
+	margin: 20px auto 30px;	
+	display: block;
+	border-radius: 5px;
+}
+
+.login-container {
+	margin-top: 50px;
+	/*padding: 0 150px;*/
+}
+
+.button-container {
+	text-align: center;
+}
+
+/*.main-wrapper a[class="button tiny"]{	
+	margin-left: 0.9375rem;
+	margin-right: 0.9375rem;
+}*/
