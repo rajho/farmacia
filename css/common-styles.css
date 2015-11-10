@@ -1,0 +1,15 @@
+
+/* Common styles for all the pages */
+/* ------------------------------- */
+
+body {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f0b7a1+0,8c3310+0,895f4f+29,895f4f+29,bca59c+100 */
+	background: #f0b7a1; /* Old browsers */
+	background: -moz-linear-gradient(top,  #f0b7a1 0%, #8c3310 0%, #895f4f 29%, #895f4f 29%, #bca59c 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f0b7a1), color-stop(0%,#8c3310), color-stop(29%,#895f4f), color-stop(29%,#895f4f), color-stop(100%,#bca59c)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #f0b7a1 0%,#8c3310 0%,#895f4f 29%,#895f4f 29%,#bca59c 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #f0b7a1 0%,#8c3310 0%,#895f4f 29%,#895f4f 29%,#bca59c 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #f0b7a1 0%,#8c3310 0%,#895f4f 29%,#895f4f 29%,#bca59c 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #f0b7a1 0%,#8c3310 0%,#895f4f 29%,#895f4f 29%,#bca59c 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0b7a1', endColorstr='#bca59c',GradientType=0 ); /* IE6-9 */
+}
